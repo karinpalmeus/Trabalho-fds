@@ -1,0 +1,80 @@
+body {
+    background-color: #E9DFC3;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff5e1;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1)
+}
+
+
+.nome {
+    text-align: center;
+    color: #4E1F00;
+    font-family: "roboto", sans-serif;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    margin: 20px 0;
+}
+
+.imagem {
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+.lista {
+    list-style-position: inside;
+    text-decoration: none;
+    color: #74512D;
+    margin-top: 10px;
+}
+
+.lista li {
+    margin-bottom: 10px;
+}
+
+.tabela td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    width: 100%;
+}
+  
+.texto__tres {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #74512D;
+}
+
+.link:hover {
+    color: #A0522D;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+}
+
+#mensagem {
+    text-align: center;
+    font-weight: bold;
+    color: #4E1F00;
+    margin-top: 20px;
+}
+
+
+  
